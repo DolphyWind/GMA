@@ -7,5 +7,5 @@ XLNet and ALBERT models, as well as training a transformer based network from sc
 
 GMAv2.5 has 62-64% test accuracy whereas GMAv3.0 has 68-70%.
 
-Unfortunately, I cannot share the dataset I've used in this project.
-
+Sadly, I had to delete the outputs of some of the notebook files, otherwise GitHub gave an error.
+I cannot share the dataset I've used in this project.
